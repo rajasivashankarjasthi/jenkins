@@ -1,0 +1,118 @@
+accept- accept or reject jobs to a destination
+addresses- formats for internet mail addresses
+agetty- an alternative Linux getty
+alias- create an alias for Linux commands
+aptitude- search and install software packages
+awk- find and replace text in a file (files).
+
+banner- To print characters as a poster
+bash-  GNU Bourne-Again Shell
+basename- used to display file names with directory or suffix
+bzip2- To compress/ decompress given files
+
+cal- show calendar
+case- Execute a command conditionally by matching a pattern
+cc- GNU C and C++ compiler
+change- used to change user password information
+chpasswd- to update password in a batch
+clear- to clear the terminal window
+cmp- used to compare (byte by byte) two files
+compress- to compress one or more files and replacing the original ones
+continue- used to Resume the next iteration of a loop
+cp- copy contents of one file to another file
+
+date- used to show system date and time
+declare- To declare variables and assign attributes
+diff- to compare files line by line
+dir- this command lists the contents of a directory
+
+echo- used to print a text of the line provided
+eject- to eject removable media (CD ROM, DVD etc)
+exit- To exit from the terminal
+
+factor- to show prime factors of integer numbers
+file- used to determine the file type for a file
+find- this command is used to search in a directory hierarchy
+format- To format disks
+free- to display free and used system memory
+function- To define function macros
+
+grep- this command searches for a specified pattern in a file (s) and displays in output lines containing that pattern.
+groups- this command shows the groups to which a user belongs
+gunzip- a utility to compress or expand files
+
+halt- used to halt the machine
+help- to show help for a built-in command
+history- this command displays the command history
+host- it is a utility to perform DNS lookups
+
+id- shows the user and group information show the current user or specified user name
+if- used to execute a command conditionally
+info- read the documentation in info format
+ip- used to display or manage routing, devices, policy routing and tunnels.
+
+jobs- this command displays the list of acting jobs and their status
+join- this command is used for each pair of input lines, join them with the help of command field and then display on standard output.
+
+kill- To kill (terminate) a process using its PID by sending a signal to it.
+killall- this command is used to kill a process by its name
+
+last- to show a list of last logged in users
+ln- to create a soft link between files using the -s flag
+locate- find files by their names
+login- used to create a new session on the system
+
+mail- utility to compose, send receive, forward and reply to emails
+make- utility to maintain and recompile groups of programs
+man- this command displays the manual pages for Linux commands.
+merge- Three-way file merge, includes all changes from file 2 and file 3 to file 1
+
+named- internet domain name server
+netstat- to display network information
+newgrp- this command is used for login to a new group
+
+objcopy- to copy and translate object files
+od- the command is used to dump files in octal and other formats
+open- to open a file using its default application
+
+passwd- used to change user password
+perl- perl 5 language interpreter
+ping- Send ICMP ECHO_REQUEST to Network hosts
+
+quota- this command is used to display disk usage and space limits for a user or group
+
+read- used to read from a file descriptor
+reboot- with the help of this command you can restart the machine
+reject- To accept or reject print jobs
+rename- For renaming files
+reset- used to reinitialise the terminal
+return- To exit a shell function
+
+shutdown- this command schedules a time for the system to be powered down.
+sleep- to delay or pause for a specified amount of time
+split- to split a large file into small parts.
+shopt- Shell options
+skill- this command is used to send signal to processes
+sleep- with the help of this command you can suspend execution for a specified amount of time.
+
+tar- it is used to store and extract multiple files from single archive.
+
+telnet- you can interact with another host
+test- it is used to check type of files and compare their values
+tset- initialise the terminal
+
+uname- it displays the current operating system name. It can also print system information
+uniq- this command displays or omits repeated lines from input
+users- it displays the user names that are currently logged in to the current host.
+
+vi- a text editor utility
+vim- vi improved
+
+w- you can check who is logged on and what he or she is doing.
+wget- A non interactive file download utility
+
+xargs- used by admins to read, build and execute arguments from Standard Input.
+
+yes- to display a string repeatedly until terminated or killed using ctrl+c 
+
+zip- this command is used to package and compress files
